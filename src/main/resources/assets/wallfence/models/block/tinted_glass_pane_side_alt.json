@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "wallfence:block/tinted_glass",
+    "edge": "wallfence:block/tinted_glass_pane_top",
+    "pane": "wallfence:block/tinted_glass"
+  },
+  "render_type": "translucent"
+}

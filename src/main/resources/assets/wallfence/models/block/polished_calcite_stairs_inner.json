@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "wallfence:block/polished_calcite",
+    "bottom": "wallfence:block/polished_calcite",
+    "top": "wallfence:block/polished_calcite",
+    "side": "wallfence:block/polished_calcite"
+  },
+  "render_type": "solid"
+}

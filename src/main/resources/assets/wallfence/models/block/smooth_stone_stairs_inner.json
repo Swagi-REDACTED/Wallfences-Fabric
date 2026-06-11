@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "wallfence:block/smooth_stone",
+    "bottom": "wallfence:block/smooth_stone",
+    "top": "wallfence:block/smooth_stone",
+    "side": "wallfence:block/smooth_stone"
+  },
+  "render_type": "solid"
+}
