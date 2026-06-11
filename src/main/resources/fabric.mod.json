@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "wallfence",
+	"version": "${version}",
+	"name": "Wallfence",
+	"description": "Adds more walls, stairs, and tinted glass panes.",
+	"authors": [
+		"blupillcosby"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.wallfence.WallfenceMod"
+		]
+	},
+	"mixins": [
+		"wallfence.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

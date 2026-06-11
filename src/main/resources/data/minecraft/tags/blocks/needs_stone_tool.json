@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "wallfence:polished_granite_wall",
+    "wallfence:polished_diorite_wall",
+    "wallfence:polished_andesite_wall",
+    "wallfence:smooth_stone_wall",
+    "wallfence:smooth_stone_stairs"
+  ]
+}

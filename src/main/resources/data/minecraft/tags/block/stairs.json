@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "wallfence:polished_calcite_stairs",
+    "wallfence:calcite_stairs",
+    "wallfence:smooth_stone_stairs"
+  ]
+}

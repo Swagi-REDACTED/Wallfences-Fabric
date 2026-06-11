@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "minecraft:calcite"
+  },
+  "result": {
+    "id": "wallfence:polished_calcite",
+    "count": 4
+  }
+}

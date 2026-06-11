@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:polished_diorite"
+  },
+  "result": {
+    "id": "wallfence:polished_diorite_wall",
+    "count": 6
+  }
+}

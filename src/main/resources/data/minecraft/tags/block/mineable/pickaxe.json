@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "wallfence:smooth_quartz_wall",
+    "wallfence:quartz_wall",
+    "wallfence:stone_wall",
+    "wallfence:polished_calcite_wall",
+    "wallfence:polished_calcite_slab",
+    "wallfence:polished_calcite_stairs",
+    "wallfence:polished_calcite",
+    "wallfence:calcite_wall",
+    "wallfence:calcite_slab",
+    "wallfence:calcite_stairs",
+    "wallfence:polished_granite_wall",
+    "wallfence:polished_diorite_wall",
+    "wallfence:polished_andesite_wall",
+    "wallfence:smooth_stone_wall",
+    "wallfence:smooth_stone_stairs"
+  ]
+}

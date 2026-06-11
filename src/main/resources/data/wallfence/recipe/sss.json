@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:smooth_stone"
+  },
+  "result": {
+    "id": "wallfence:smooth_stone_stairs",
+    "count": 4
+  }
+}
