@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wallfence:block/calcite_slab"
+    },
+    "type=top": {
+      "model": "wallfence:block/calcite_slab_top"
+    },
+    "type=double": {
+      "model": "wallfence:block/calcite_slab_full"
+    }
+  }
+}
